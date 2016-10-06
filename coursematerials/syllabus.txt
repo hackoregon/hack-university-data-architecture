@@ -1,0 +1,120 @@
+Syllabus:  Strategic Data Architecture
+
+Instructor:  Scott Lewis
+Email:  slewis@composent.com/Gmail:  scottslewis@gmail.com
+Slack Channel:  https://hackufallwinter16.slack.com/messages/data-architecture/
+Skype: sblewis
+Github: scottslewis
+Cell:  503.756.8719
+
+Statement of Desired Outcome
+
+The desired outcomes for this course are twofold:  
+
+1) To prepare a group of advanced Hack Oregon contributors for team leadership roles in upcoming Hack Oregon projects.  
+
+2) To define, implement and test Hack Oregon architectural directions for software tools, service/server software architecture, data collection and analysis, and integration technologies and approaches, team collaboration, data security, and open collaboration processes with the aim to support future Hack Oregon projects.
+
+Approach
+
+This course will take a project-based learning approach.  This will mean that all participants will be experienced professionals, be self-motivated and be willing to work both collaboratively and independently, and be expected to contribute to all of the  project such as:
+
+1) Definition, selection, and scoping of project goals
+2) Team planning and task coordination
+3) High-quality execution, completion, and testing for project sub-goals
+4) Implementation and integraiton open source tooling, open services, API, and open collaboration technologies.  
+4) Definition and use of open processes for Hack Oregon projects
+
+We will study and use some of the 'best practices' from professional Open Source Software projects.  For example:  agile/iterative development, open team communication/collaboration, modular and extensible tooling, services and storage infrastructure, API design and maintenance, information security at all levels, creation of reusable components for both 'backend' and 'user interface' creation, and others.  We will look to borrow the best practices appropriate for open data collection, analysis, and presentation, as well as define new/other practices as needed to support Hack Oregon projects. 
+
+This team will also work with the Strategic Product Design course leadership with the goal of incorporating the project product design needs into a broader long-term architectural plan for Hack Oregon.
+
+Technology
+
+We will consider, evaluate, and begin to integrate state of the art tools, technologies, and collaboration systems.  As a team, we will select an initial set of tools, technologies, and services to support this year's Hack Oregon projects.   We may choose to install, test and use prototypes, and customize and extend existing tools and services, integrate tools and service, or develop new tooling and/or services to support Hack Oregon project usage.   
+
+Grading
+
+The grading will be based upon the team's success at reaching the project goals:   i.e. to understand Hack Oregon project needs, to select and define useful technical and process directions based upon those needs, and to put in place tools and services.   Conribution and team communication will be used to evaluate each individual, but particularly important will be contributions that result in tangible artifacts such as process documents, documentation, tools, or services that usable by January 2017 project teams.
+
+Schedule
+
+Week 1
+
+1.1  Project Planning.  Discussion of course project goals and sub-goals.   Start documentation and scoping of goals for 8 week release cycle.  
+
+1.2  Looking Back at Previous Hack Oregon Projects.   What went well, what didn't go well, what was needed and not provided, what would have made everything smoother?  Deliverable:  1st draft of goals and associated artifacts and initial project plan.  
+
+Week 2
+
+2.1  Open Source Best Practices.   Discussion/presentation of some Open Source orgs and approaches.  Deliverable:  List of OS best practices appropriate to 2017 Hack Oregon projects.
+
+2.2  Tooling.   Discussion/presentation of tooling:  languages and associated tools, git/github and associated tools (issue tracking, wiki, etc).  Data analysis tooling.   Deliverables:  List of tools.  Final plan for goals, sub-goals, and individual task assignments.
+
+Week 3
+
+3.1  Server/services technologies.  Storage technologies:  SQL/Column Family/Hybrid.   Web Applications, APIs and remoting (REST, etc), Integration technologies, others.
+
+3.2  Team Collaboration technologies.  Github, Slack, integrations, wikis, issue tracking, authentication/security, meetings, etc.   Deliverable:  List of 2017 projects collaboration technologies
+
+Week 4
+
+4.1  Open Data Process:  What OSS processes should we steal?  How to modify to fit Hack Oregon project needs?  What does agile mean for Hack Oregon?
+
+4.2  Milestone RELEASE:  1st drafts of goal/sub-goal execution.   Deliverable:  Documents, Software/technical installations evaluations, Prototype extensions, tools
+
+Week 5
+
+5.1  TBD
+
+5.2  TBD
+
+Week 6
+
+6.1  TBD
+
+6.2  TBD
+
+Week 7 
+
+7.1  TBD
+
+7.2  TBD
+
+Week 8
+
+8.1  TBD
+
+8.2  TBD
+
+  
+
+
+Technology:
+
+   Persistence:   SQL, NoSQL, Both?...When?  
+
+   Security:   Public and Private (Individuals and Organizations)
+
+   Integration:  Open Source, open protocols
+
+   Internet of Things:
+
+Process:
+
+   Hack Oregon Projects Working Together:  how?
+
+   Levels of Trust
+
+   Legal requirements:  Privacy, licensing, IP
+
+   Interaction with Policy
+
+   Collaboration Tools
+
+   Building Communities with Open Data
+
+Open Source Example Organizations:  Apache, Eclipse, Linux, Mozilla
+
+
+Result for Course/Project:   Clearly-Articulated Path for Hack Oregon Future:   Technology and Process
