@@ -75,21 +75,6 @@ Week 6
 
 6.2  TBD
 
-Week 7 
-
-7.1  TBD
-
-7.2  TBD
-
-Week 8
-
-8.1  TBD
-
-8.2  TBD
-
-  
-
-
 Technology:
 
    Persistence:   SQL, NoSQL, Both?...When?  
