@@ -13,16 +13,16 @@ The desired outcomes for this course are twofold:
 
 1) To prepare a group of advanced Hack Oregon contributors for team leadership roles in upcoming Hack Oregon projects.  
 
-2) To define, implement and test Hack Oregon architectural directions for software tools, service/server software architecture, data collection and analysis, and integration technologies and approaches, team collaboration, data security, and open collaboration processes with the aim to support future Hack Oregon projects.
+2) To define, implement and test Hack Oregon architectural directions for software tools, service/server software architecture, data collection and analysis, and integration technologies and approaches, team collaboration, data security, and open collaboration processes with the aim to create a platform for Hack Oregon projects.
 
 Approach
 
-This course will take a project-based learning approach.  This will mean that all participants will be experienced professionals, be self-motivated and be willing to work both collaboratively and independently, and be expected to contribute to all of the  project such as:
+This course will take a project-based learning approach.  This will mean that all participants will be experienced professionals, be self-motivated and be willing to work both collaboratively and independently, and be expected to contribute to all of the project such as:
 
 1) Definition, selection, and scoping of project goals
 2) Team planning and task coordination
 3) High-quality execution, completion, and testing for project sub-goals
-4) Implementation and integraiton open source tooling, open services, API, and open collaboration technologies.  
+4) Implementation and integration open source tooling, open services, API, and open collaboration technologies.  
 4) Definition and use of open processes for Hack Oregon projects
 
 We will study and use some of the 'best practices' from professional Open Source Software projects.  For example:  agile/iterative development, open team communication/collaboration, modular and extensible tooling, services and storage infrastructure, API design and maintenance, information security at all levels, creation of reusable components for both 'backend' and 'user interface' creation, and others.  We will look to borrow the best practices appropriate for open data collection, analysis, and presentation, as well as define new/other practices as needed to support Hack Oregon projects. 
@@ -74,32 +74,3 @@ Week 6
 6.1  TBD
 
 6.2  TBD
-
-Technology:
-
-   Persistence:   SQL, NoSQL, Both?...When?  
-
-   Security:   Public and Private (Individuals and Organizations)
-
-   Integration:  Open Source, open protocols
-
-   Internet of Things:
-
-Process:
-
-   Hack Oregon Projects Working Together:  how?
-
-   Levels of Trust
-
-   Legal requirements:  Privacy, licensing, IP
-
-   Interaction with Policy
-
-   Collaboration Tools
-
-   Building Communities with Open Data
-
-Open Source Example Organizations:  Apache, Eclipse, Linux, Mozilla
-
-
-Result for Course/Project:   Clearly-Articulated Path for Hack Oregon Future:   Technology and Process
