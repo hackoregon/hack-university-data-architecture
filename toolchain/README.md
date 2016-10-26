@@ -1,4 +1,4 @@
-#Toolchain Documentation
+#Hack Oregon Toolchain
 
 This area will contain documentation and install scripts for Hack Oregon tools.  Specifically:
 
