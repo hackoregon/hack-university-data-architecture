@@ -2,7 +2,7 @@
 # vi: set ft=ruby :
 
 $conda_installation = <<SCRIPT
-curl https://repo.continuum.io/archive/Anaconda3-4.2.0-Linux-x86_64.sh -o anaconda.sh || exit 1;
+wget --progress=bar:force https://repo.continuum.io/archive/Anaconda3-4.2.0-Linux-x86_64.sh -O anaconda.sh 2>&1 || exit 1;
 bash anaconda.sh -b || exit 1;
 grep -q anaconda ~/.bashrc;
 if [[ ${?} -ne 0 ]]; then
