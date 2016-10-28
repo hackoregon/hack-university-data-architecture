@@ -4,11 +4,11 @@
 $conda_installation = <<SCRIPT
 wget --progress=bar:force https://repo.continuum.io/archive/Anaconda3-4.2.0-Linux-x86_64.sh -O anaconda.sh 2>&1 || exit 1;
 bash anaconda.sh -b -p /home/vagrant/anaconda3 || exit 1;
-grep -q anaconda ~/.bashrc;
-if [[ ${?} -ne 0 ]]; then
-    echo "export PATH=\"${HOME}/anaconda3/bin:\${PATH}\"" >> ~/.bashrc
-fi
-source ~/.bashrc
+echo "setting PATH for active shell"
+printenv PATH | grep "anaconda3" >> /dev/null || export PATH=/home/vagrant/anaconda3/bin:$PATH
+echo "Setting PATH in /etc/environment"
+grep '/home/vagrant/anaconda3/bin' /etc/environment >> /dev/null || echo "PATH=$PATH" >> /etc/environment
+echo "Running conda info"
 conda info || exit 1;
 rm anaconda.sh || exit 1;
 conda clean -t || exit 1;
@@ -83,5 +83,5 @@ Vagrant.configure("2") do |config|
   # SHELL
 
   config.vm.network "forwarded_port", guest: 8888, host: 12777
-  config.vm.provision "shell", inline: $conda_installation
+  config.vm.provision "shell", name: "Installing Anaconda3...", inline: $conda_installation
 end
